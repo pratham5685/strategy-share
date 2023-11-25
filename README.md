@@ -1,5 +1,6 @@
 There's an copy of Code in case above code isnt working : https://drive.google.com/file/d/1BZLbXkCxkK-5KnvmKpMbHdmBuvZhB-LX/view?usp=sharing
 
+![image](https://github.com/pratham5685/strategy-share/assets/93913808/7ee197ef-4852-4188-8497-1778af88cbc2)
 
 
 # Getting Started with Create React App
